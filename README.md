@@ -11,5 +11,7 @@ Here are some of the languages and tools I work with:
 
 - **Languages:** Proficient in Python, Java, and C
 - **Tools:** Git
+## Projects: 
+- **Project 1:** https://github.com/notsorashi/drowsyalert
 
 Thanks for visiting my profile! 😊
