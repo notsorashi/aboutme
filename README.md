@@ -1,4 +1,4 @@
-# Hi there, I'm notsorashi 👋
+# Hi there, I'm rashi 👋
 
 ## About Me
 I'm a passionate developer with a love for learning and exploring new technologies. My interests span across various fields including web development, machine learning, and open-source contribution.
